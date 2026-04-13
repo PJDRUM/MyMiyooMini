@@ -1,0 +1,5 @@
+{
+  "label":"MyLauncher",
+  "launch":"launch.sh",
+  "description":"Games only"
+}

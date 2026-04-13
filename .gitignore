@@ -1,0 +1,10 @@
+Allium/
+myLauncher/target/
+myLauncher/dist-sd/
+myLauncher/static/Roms/
+myLauncher/static/Apps/
+myLauncher/static/.allium.fullcopy/
+myLauncher/static/.allium/state/*
+!myLauncher/static/.allium/state/.gitkeep
+myLauncher/.DS_Store
+.DS_Store
